@@ -9,7 +9,7 @@ Built with **FastAPI**, **SQLAlchemy**, **Celery**, and **Redis**.
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ra3indra1/file-parser-api.git
 cd file-parser-api
 ```
 
